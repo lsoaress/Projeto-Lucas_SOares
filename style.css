@@ -17,6 +17,16 @@ span{
 .destaque{
     background-color: yellow;
 }
+
+.title{
+    color: red;
+    margin: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+    width: 80%;
+}
+
 #destaqueEspecial{
     background-color: aquamarine;
 }
