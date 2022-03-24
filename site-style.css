@@ -1,0 +1,31 @@
+.header{
+    background-color: #000407;
+    color: #32b9cd;
+}
+
+.header .container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    width: 400px;
+    list-style: none;
+}
+
+li{
+    margin: 30px;
+    
+}
+
+p{
+    margin: 20px 30px 40px 50px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
